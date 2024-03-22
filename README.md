@@ -1,13 +1,13 @@
 # Thay1601.github.io
-<h1 align = "center"> Olá 👋, sou Raphael Olimpio💻 </h1>
+<h1 align = "center"> Olá 👋, sou a Thayna L. Ribeiro💻 </h1>
 <h3 align = "center">✨Seja Bem-vindo (a)!</h3>
 
 ### 🦸🏻‍♀️ Um pouco sobre mim:
 - 🎓 Analise e desenvolvimento de sistemas
-- 🚀 Programador e desenvolvedor
-- ❤ Amor Imenso por cachorros🐶, natureza🌻, séries🎬, documentários📖 e jogos🎮
-- 📊<a target="_blank" href="https://github.com/Rapha29/CERFITICADOS"> Certificados </a>
-- 💻<a target="_blank" href="https://rapha29.github.io/"> Pequeno Projeto </a>
+- 🚀 Programador e desenvolvedor (Iniciante)
+- ❤  Amor por cachorros🐶, natureza🌻, séries e filmes🎬, documentários📖
+- 📊<a target="_blank" href="https://github.com/Thay1601/CERFITICADOS"> Certificados </a>
+- 💻<a target="_blank" href="https://Thay1601.github.io/"> Pequeno Projeto </a>
 
 
 
@@ -45,5 +45,5 @@
 
 
 ### 📊 GitHub estatísticas:
-<p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=Rapha29&show_icons=true&locale=en&layout=compact" alt = "Thay Ribeiro" /> </p>
+<p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=Thay1601&show_icons=true&locale=en&layout=compact" alt = "Thay Ribeiro" /> </p>
 <br><br>
