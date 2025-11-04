@@ -7,7 +7,7 @@
 - 🎓 Analise e desenvolvimento de sistemas
 - 🚀 Programador e desenvolvedor (Iniciante)
 - ❤  Amor por cachorros🐶, natureza🌻, séries e filmes🎬, documentários📖
-- 📊<a target="_blank" href="https://github.com/Thay1601/CERFITICADOS"> Certificados </a>
+- 📊<a target="_blank" href="https://github.com/Thay1601/Certificados-ADS"> Certificados </a>
 - 💻<a target="_blank" href="https://Thay1601.github.io/"> Pequeno Projeto </a>
 
 
